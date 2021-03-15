@@ -1,5 +1,5 @@
 # TicTacToe
-Basic TicTacToe game code with Java.
+Basic TicTacToe game code with Java / Código simples de Jogo da Velha em Java.
 
 @Author: Bruno Pires Lourenço
 
